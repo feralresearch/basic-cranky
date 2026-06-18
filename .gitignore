@@ -1,0 +1,28 @@
+# Unity-generated dirs that shouldn't ever be in this repo —
+# this is a package repo, not a Unity project.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vs/
+.vscode/
+
+# Asset cache
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+
+# Don't ignore .meta files — Unity needs them for stable GUIDs.
+!*.meta

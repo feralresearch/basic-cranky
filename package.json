@@ -1,0 +1,8 @@
+{
+  "name": "com.an.basiccranky",
+  "version": "0.1.0",
+  "displayName": "BasicCranky",
+  "description": "Editor tools for porting skinned clothing/prop meshes onto BasisVR avatars, plus avatar jiggle-rig setup. A small cranky cousin of VRCFury's Armature Link.",
+  "unity": "6000.0",
+  "author": { "name": "An" }
+}
