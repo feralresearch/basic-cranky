@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" width="600" height="280" font-family="'Arial Black','Helvetica Neue',Helvetica,sans-serif" role="img" aria-label="ANSI warning: this code is more than 90% vibes">
+  <rect x="2" y="2" width="596" height="276" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <rect x="2" y="2" width="596" height="76" fill="#000000"/>
+  <g transform="translate(58 40)">
+    <polygon points="0,-28 30,22 -30,22" fill="#ffcb05" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+    <rect x="-4" y="-14" width="8" height="22" fill="#000000"/>
+    <rect x="-4" y="12" width="8" height="8" fill="#000000"/>
+  </g>
+  <text x="118" y="58" font-size="48" fill="#ffcb05" letter-spacing="3">WARNING</text>
+  <text x="300" y="135" text-anchor="middle" font-size="24" fill="#000000" letter-spacing="2">THIS CODE IS MORE THAN</text>
+  <rect x="155" y="152" width="290" height="42" fill="#ffcb05" stroke="#000000" stroke-width="2"/>
+  <text x="300" y="184" text-anchor="middle" font-size="32" fill="#000000" letter-spacing="3">90% VIBES.</text>
+  <text x="300" y="218" text-anchor="middle" font-size="18" fill="#000000" letter-spacing="2">OPERATOR DISCRETION ADVISED.</text>
+  <line x1="2" y1="240" x2="598" y2="240" stroke="#000000" stroke-width="2"/>
+  <text x="14" y="264" font-size="13" fill="#000000" font-family="ui-monospace,'Courier New',monospace" letter-spacing="3">ANSI Z535.4 - VIBE</text>
+  <text x="586" y="264" text-anchor="end" font-size="13" fill="#000000" font-family="ui-monospace,'Courier New',monospace" letter-spacing="3">HAZARD - LLM</text>
+</svg>

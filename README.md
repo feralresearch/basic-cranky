@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="docs/warning-ansi.svg" alt="ANSI warning: this code is more than 90% vibes" height="180">
+  &nbsp;&nbsp;
+  <img src="docs/warning-iso.svg" alt="ISO 7010 warning: AI-authored code, vibes 90% or higher" height="260">
+</p>
+
 # BasicCranky
 
 A small Unity Editor toolset for porting VRChat-style skinned clothing/prop meshes onto **BasisVR** avatars, plus one-click jiggle-rig wiring for furry chains (ears/tail/tongue/hair). A name-based armature linker + bind-pose rebaker — basically a cranky little cousin of VRCFury's Armature Link. Cranky because it does the parts that aren't fancy: no axis-flip heuristics, no per-source guards, no UI window. Just menu commands that do what they say.

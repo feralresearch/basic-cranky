@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" font-family="'Arial Black','Helvetica Neue',Helvetica,sans-serif" role="img" aria-label="ISO 7010 warning: AI-authored code, vibes 90 percent or higher">
+  <polygon points="200,16 388,348 12,348" fill="#ffcb05" stroke="#0a0a0a" stroke-width="18" stroke-linejoin="round"/>
+  <g transform="translate(200 222)" fill="#0a0a0a">
+    <rect x="-4" y="-108" width="8" height="20"/>
+    <circle cx="0" cy="-112" r="9"/>
+    <rect x="-62" y="-86" width="124" height="92" rx="10"/>
+    <rect x="-76" y="-60" width="14" height="40" rx="3"/>
+    <rect x="62" y="-60" width="14" height="40" rx="3"/>
+    <rect x="-40" y="-64" width="28" height="20" rx="4" fill="#ffcb05"/>
+    <rect x="12" y="-64" width="28" height="20" rx="4" fill="#ffcb05"/>
+    <circle cx="-26" cy="-54" r="4"/>
+    <circle cx="26" cy="-54" r="4"/>
+    <rect x="-34" y="-26" width="68" height="14" rx="3" fill="#ffcb05" stroke="#0a0a0a" stroke-width="4"/>
+    <line x1="-20" y1="-26" x2="-20" y2="-12" stroke="#0a0a0a" stroke-width="3"/>
+    <line x1="-6" y1="-26" x2="-6" y2="-12" stroke="#0a0a0a" stroke-width="3"/>
+    <line x1="8" y1="-26" x2="8" y2="-12" stroke="#0a0a0a" stroke-width="3"/>
+    <line x1="22" y1="-26" x2="22" y2="-12" stroke="#0a0a0a" stroke-width="3"/>
+    <rect x="-22" y="6" width="44" height="8"/>
+  </g>
+  <rect x="32" y="368" width="336" height="86" fill="#ffffff" stroke="#0a0a0a" stroke-width="5"/>
+  <text x="200" y="402" text-anchor="middle" font-size="26" fill="#0a0a0a" letter-spacing="2">AI-AUTHORED CODE</text>
+  <text x="200" y="434" text-anchor="middle" font-size="13" fill="#0a0a0a" font-family="ui-monospace,'Courier New',monospace" letter-spacing="3">VIBES &#8805; 90% &#183; VERIFY BEFORE USE</text>
+  <text x="200" y="484" text-anchor="middle" font-size="11" fill="#777777" font-family="ui-monospace,'Courier New',monospace" letter-spacing="3">ISO 7010 &#183; W-LLM-090</text>
+</svg>
